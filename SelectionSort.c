@@ -3,6 +3,7 @@
 #include <time.h>
 #include "commons.h"
 
+//modifiquei hihi
 void selecao(int n, int *v)
 {
     for (int i = 0; i < n - 1; ++i)
